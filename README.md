@@ -46,8 +46,11 @@ Full details in [`docs/`](docs/):
 - [03 · Magisk in vendor_boot](docs/03-magisk.md)
 - [04 · Problems and fixes](docs/04-troubleshooting.md)
 - [05 · Post-install (Zygisk, debloat, stylus)](docs/05-post-install.md)
+- [06 · Real-world performance work](docs/06-performance.md)
 
-Helper scripts in [`scripts/`](scripts/).
+Helper scripts in [`scripts/`](scripts/), and the performance Magisk module in
+[`magisk/tb330fu-perf`](magisk/tb330fu-perf) (ACTION button cycles `balanced`/`fluid`/`aggressive`,
+default **fluid**).
 
 ---
 
