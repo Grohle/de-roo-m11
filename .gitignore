@@ -1,0 +1,10 @@
+# Device dumps / firmware images must never be committed
+dump/
+*.img
+*.bin
+*.apk
+*.zip
+*.7z
+
+# Logs
+*.log
